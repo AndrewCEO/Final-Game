@@ -1,0 +1,15 @@
+body {
+	
+	background-image: url(../Final%20Project/images.jpeg);
+}
+
+.title {
+	color: aqua;
+	font-size: 35px;
+}
+.aboutmylevel {
+	background-color:#d1f039;
+}
+.aboutmylevel h1 {
+	color:gray;
+}
